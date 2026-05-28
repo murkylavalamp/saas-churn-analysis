@@ -101,7 +101,7 @@ Observed churn rate: **~26.5%** — more than three times the 5–7% B2B SaaS in
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saas-churn-analysis.git
+git clone https://github.com/murkylavalamp/saas-churn-analysis.git
 cd saas-churn-analysis
 
 python -m venv venv
